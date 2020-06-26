@@ -94,6 +94,12 @@ ps_calc_01 - ps_calc_14
 
 ps_calc_15_bin - ps_calc_20_bin
 
+### Data Visualization
+
+Python (Jupyter Notebook) Visualizations:
+
+https://github.com/pm831/Porto_Seguro_Safe_Driver_Prediction/blob/master/Porto%20Seguro%20-%20Safe%20Driver%20Prediction.ipynb
+
 ![output_28_0](https://user-images.githubusercontent.com/19572673/85775399-c06b8e00-b6ed-11ea-8a80-ce637cc5900a.png)
 
 ![output_29_1](https://user-images.githubusercontent.com/19572673/85775402-c1042480-b6ed-11ea-86d8-9e9f92ddf760.png)
