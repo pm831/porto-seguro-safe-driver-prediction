@@ -100,49 +100,73 @@ Python (Jupyter Notebook) Visualizations:
 
 https://github.com/pm831/Porto_Seguro_Safe_Driver_Prediction/blob/master/Porto%20Seguro%20-%20Safe%20Driver%20Prediction.ipynb
 
+Binary and Numeric Heat Map Correlation 
+
 ![output_28_0](https://user-images.githubusercontent.com/19572673/85775399-c06b8e00-b6ed-11ea-8a80-ce637cc5900a.png)
+
+Correlation of Dataset Variables Distribution
 
 ![output_29_1](https://user-images.githubusercontent.com/19572673/85775402-c1042480-b6ed-11ea-86d8-9e9f92ddf760.png)
 
+Numeric Features Histograms
 
 ![output_32_0](https://user-images.githubusercontent.com/19572673/85775405-c1042480-b6ed-11ea-88ff-560d1805e3a9.png)
 
+Binary Features Histograms
 
 ![output_33_0](https://user-images.githubusercontent.com/19572673/85775406-c1042480-b6ed-11ea-924b-2ec5777755d5.png)
 
+Categorical Features Histograms
 
 ![output_35_0](https://user-images.githubusercontent.com/19572673/85775407-c1042480-b6ed-11ea-80bf-e378234156d8.png)
 
+Categorical Features vs. Target Distribution 
 
 ![output_36_0](https://user-images.githubusercontent.com/19572673/85775411-c19cbb00-b6ed-11ea-97c9-fe48296561ae.png)
 
+Categorical Features vs. Target Distribution 
 
 ![output_37_0](https://user-images.githubusercontent.com/19572673/85775412-c19cbb00-b6ed-11ea-8f69-cab77c872410.png)
 
+Heat Map Correlation of Binary, Numeric, and Categorical Features
 
 ![output_42_1](https://user-images.githubusercontent.com/19572673/85775413-c19cbb00-b6ed-11ea-8d42-6f365603f56d.png)
 
+Variable Importance Chart of Random Forest Algorithm
 
 ![output_55_0](https://user-images.githubusercontent.com/19572673/85775417-c2355180-b6ed-11ea-81fc-74804b115cd6.png)
 
+Distributions of the following variables:
+
+ps_car_13, ps_reg_03, ps_car_14, ps_ind_15
 
 ![output_57_1](https://user-images.githubusercontent.com/19572673/85775418-c2355180-b6ed-11ea-919d-2b11d8dc28b7.png)
 
+Distributions of the following variables:
+
+ps_ind_03, ps_reg_02, ps_car_11_cat, ps_ind_01
 
 ![output_58_1](https://user-images.githubusercontent.com/19572673/85775419-c2355180-b6ed-11ea-90ee-48cb19868882.png)
 
+Distributions of the following variables:
+
+ps_car_15, ps_reg_01, ps_car_01_cat, ps_car_06_cat
 
 ![output_59_1](https://user-images.githubusercontent.com/19572673/85775420-c2355180-b6ed-11ea-9ba4-c5b797e302a2.png)
 
+Heat Map Correlation of Newly Derived Features
 
 ![output_60_0](https://user-images.githubusercontent.com/19572673/85775421-c2355180-b6ed-11ea-94fe-b9e629070b9f.png)
 
+Variable Importance Chart of 2nd Random Forest Algorithm
 
 ![output_64_1](https://user-images.githubusercontent.com/19572673/85775422-c2cde800-b6ed-11ea-8df4-c347201a1e98.png)
 
+Updated Heat Map Correlation (more visible)
 
 ![output_67_0](https://user-images.githubusercontent.com/19572673/85775423-c2cde800-b6ed-11ea-8908-a2be58e9f3d1.png)
 
+Variable Importance Chart of 3rd Random Forest Algorithm
 
 ![output_69_1](https://user-images.githubusercontent.com/19572673/85775424-c2cde800-b6ed-11ea-92d4-4ad91af62562.png)
 
