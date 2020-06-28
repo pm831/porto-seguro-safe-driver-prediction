@@ -35,7 +35,7 @@ test.csv contains the test data.
 sample_submission.csv is submission file showing the correct format.
 
 ### Tool:
-Python
+Python (Jupyter Notebook)
 
 ### Techniques:
 
