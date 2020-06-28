@@ -37,6 +37,10 @@ sample_submission.csv is submission file showing the correct format.
 ### Tool:
 Python
 
+### Techniques:
+
+Random Forest
+
 ### Data:
 In this competition, you will predict the probability that an auto insurance policy holder files a claim.
 
@@ -93,6 +97,8 @@ ps_car_11 - ps_car_15
 ps_calc_01 - ps_calc_14
 
 ps_calc_15_bin - ps_calc_20_bin
+
+### Data Curation Process:
 
 ### Data Visualization
 
@@ -170,3 +176,12 @@ Variable Importance Chart of 3rd Random Forest Algorithm
 
 ![output_69_1](https://user-images.githubusercontent.com/19572673/85775424-c2cde800-b6ed-11ea-92d4-4ad91af62562.png)
 
+### Communication of Results to Business Partner:
+To a business partner, I would explain that the Random Forest (all else equal) would work better for complex data (high variance, low bias) that’s a bit more unknown in terms of predictors’ effect on the response variable since it looks at all predictor variables equally in terms of its importance.
+
+### Future Work:
+Continue to do hyperparameter tuning of the model and creating new features/removing old features to help increase the prediction accuracy of the model
+
+Try other types of models to see if the accuracy rate improves
+
+More data visualization/patterns within the dataset (external sources) that can lead to more insights and decision-making from a business perspective
